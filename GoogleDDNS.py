@@ -2,7 +2,7 @@
 Author: Vincent
 Date: 2022-05-26 03:46:30
 LastEditors: Vincent
-LastEditTime: 2022-05-26 05:12:04
+LastEditTime: 2022-05-26 05:13:15
 FilePath: /GoogleDDNS/GoogleDDNS.py
 Telegram: https://t.me/missuo
 
