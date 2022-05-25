@@ -2,7 +2,7 @@
 Author: Vincent
 Date: 2022-05-26 03:46:30
 LastEditors: Vincent
-LastEditTime: 2022-05-26 04:47:10
+LastEditTime: 2022-05-26 05:12:04
 FilePath: /GoogleDDNS/GoogleDDNS.py
 Telegram: https://t.me/missuo
 
@@ -69,6 +69,6 @@ def main():
         else:
             print("Failed Updated!", updateInfo)
     else:
-        print("Current IP: {} is the latest, not need to update." % currentIP)
+        print("Current IP: {} is the latest, not need to update." .format(currentIP))
 
 main()
