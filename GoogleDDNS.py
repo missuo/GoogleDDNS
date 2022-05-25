@@ -19,13 +19,6 @@ USERNAME = "yourusername"
 # Your Google Domains password
 PASSWORD = "yourpassword"
 
-"""
-FOR EXAMPLE:
-HOSTNAME = "example.domain.com"
-USERNAME = "yourusername"
-PASSWORD = "yourusername"
-"""
-
 # Get the current resolved IP of the domain name
 def getResolvedIP(hostname):
     googleIP = socket.gethostbyname(hostname)
