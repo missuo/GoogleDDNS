@@ -43,7 +43,7 @@ pip3 install requests
 ~~~
 
 ## Thanks
-- [IP.SB]: Free IP lookup interface provided
+- [IP.SB](https://ip.sb): Free IP lookup interface provided
 
 ## License
 [Apache License 2.0](https://github.com/missuo/GoogleDDNS/blob/main/LICENSE)
